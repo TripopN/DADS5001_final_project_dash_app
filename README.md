@@ -6,3 +6,5 @@ DADS 5001 Final project - Dash X Pandas
 2. นาย ตรีภพ เนตรภู่      6610422011
 3. นาย ธนกฤต บุญมาสืบ   6610422022
 
+Noted : รับ API KEY สำหรับการดึงข้อมูลจาก Youtube mujouj
+https://console.cloud.google.com/marketplace/product/google/youtube.googleapis.com?q=search&referrer=search&project=winged-idiom-404118
