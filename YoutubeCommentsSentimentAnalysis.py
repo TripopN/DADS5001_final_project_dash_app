@@ -27,7 +27,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 
 
 # Set up the YouTube API service
-youTubeApiKey = "AIzaSyBwwI1etXSNId48R0_jB_2TMKUWm73-okQ"  ## Enter your API Here.
+youTubeApiKey = "Enter your API"  ## Get API from "https://console.cloud.google.com/marketplace/product/google/youtube.googleapis.com?q=search&referrer=search&project=winged-idiom-404118"
 youtube = build('youtube', 'v3', developerKey=youTubeApiKey)
 
 # Load the tokenizer and model
